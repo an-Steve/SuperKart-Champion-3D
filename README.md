@@ -2,10 +2,12 @@
 
 > **Réalisé par ANTON NELCON Steve**  
 > Un jeu de course arcade 3D complet inspiré de Mario Kart, propulsé par **Three.js** et **TypeScript**.  
-> **100% jouable directement dans votre navigateur web sans rien installer** et prêt à être déployé sur **GitHub Pages** en 2 clics !
+> **100% jouable directement dans votre navigateur web sans rien installer**
+
+<img width="1917" height="872" alt="image" src="https://github.com/user-attachments/assets/afb3a145-0742-4529-b590-6441f64276cf" />
 
 ---
- https://an-steve.github.io/SuperKart-Champion-3D/
+ Lien du site  :  https://an-steve.github.io/SuperKart-Champion-3D/
 ## 🚀 Comment Lancer et Jouer au Jeu
 
 ### Option 1 : Le plus simple (En 1 clic)
@@ -20,36 +22,6 @@ Ce fichier est 100% autonome et intègre tout le jeu (aucun serveur ni installat
 ```bash
 npm run dev
 ```
-
----
-
-## 🌐 Comment Publier sur GitHub Pages (Gratuit & Jouable par Tous)
-
-Le projet est préconfiguré pour être publié en 2 minutes sur GitHub Pages afin que vos amis et joueurs du monde entier puissent y jouer sur leur PC, Mac, tablette ou smartphone sans rien installer.
-
-### Étape 1 : Créer votre dépôt sur GitHub
-1. Connectez-vous sur votre compte GitHub et allez sur [github.com/new](https://github.com/new).
-2. Nommez votre projet (par exemple `mario-kart-3d` ou `super-kart-champions`).
-3. Laissez le dépôt en **Public** et cliquez sur **Create repository**.
-
-### Étape 2 : Envoyer le code
-Dans le dossier du jeu sur votre ordinateur, ouvrez PowerShell ou un terminal et tapez :
-```powershell
-git remote add origin https://github.com/VOTRE_NOM_UTILISATEUR/VOTRE_DEPOT.git
-git push -u origin main
-```
-
-### Étape 3 : Activer GitHub Pages
-1. Dans votre dépôt GitHub, allez dans l'onglet **Settings** (Paramètres).
-2. Dans le menu à gauche, cliquez sur **Pages**.
-3. Sous **Build and deployment** > **Source**, sélectionnez **GitHub Actions**.
-
-🎉 Votre jeu sera automatiquement compilé et accessible en ligne pour tout le monde à l'adresse :
-```
-https://VOTRE_NOM_UTILISATEUR.github.io/VOTRE_DEPOT/
-```
-
----
 
 ## 🎮 Commandes de Jeu
 
